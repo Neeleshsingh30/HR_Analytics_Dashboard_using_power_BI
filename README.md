@@ -1,1 +1,2 @@
 # HR_Analytics_Dashboard_using_power_BI
+An HR Analytics dashboard in Power BI would focus on visualizing and analyzing key human resource metrics such as employee performance, attrition rates, recruitment efficiency, workforce demographics, and employee engagement. This dashboard allows HR teams to make data-driven decisions, monitor trends, and improve organizational processes by presenting data through interactive visuals like charts, KPIs, and slicers. Let me know if you need help designing specific features or visuals for the dashboard!
